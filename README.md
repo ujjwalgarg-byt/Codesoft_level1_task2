@@ -1,2 +1,2 @@
-# Codesoft_level1_task2
-A portfolio of me made using HTML , CSS and JAVASCRIPT.
+# Portfolio--website
+portfolio website made by using html,css and javascript
